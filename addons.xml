@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.video.bbqguru"
-       version="0.1.0"
+       version="0.1.1"
        name="xbmc bbq"
        provider-name="Brian Addicks">
   <requires> </requires>
