@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xbmcbbq" name="XBMC BBQ repo" version="1.0.0" provider-name="Brian Addicks">
+	<extension point="xbmc.addon.repository" name="XBMC BBQ repo">
+		<info compressed="false">https://github.com/brianaddicks/xbmcbbq/xbmcbbq-xbmc-addons/raw/master/addons.xml</info>
+		<checksum>https://github.com/brianaddicks/xbmcbbq/xbmcbbq-xbmc-addons/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/brianaddicks/xbmcbbq/xbmcbbq-xbmc-addons/raw/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install XBMC BBQ Addons</summary>
+		<description>Download and update XBMC BBQ</description>
+		<platform>all</platform>
+	</extension>
+</addon>
