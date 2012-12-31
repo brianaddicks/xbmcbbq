@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.bbqguru"
+       version="0.1.0"
+       name="xbmc bbq"
+       provider-name="Brian Addicks">
+  <requires> </requires>
+  <extension point="xbmc.python.pluginsource" library="">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Monitors BBQ Guru CyberQ Wifi system.</summary>
+    <description>Overlay cooking stats retrieved from a CyberQ Wifi system</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
