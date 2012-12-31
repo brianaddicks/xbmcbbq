@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.bbqguru"
        version="1.0"
        name="xbmc bbq"
@@ -13,4 +13,3 @@
     <platform>all</platform>
   </extension>
 </addon>
-</addons>
